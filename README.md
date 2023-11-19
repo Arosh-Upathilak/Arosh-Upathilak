@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arosh Upathilak</h1>
-<h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
+<h3 align="center">A passionate WEB developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosh-upathilak&label=Profile%20views&color=0e75b6&style=flat" alt="arosh-upathilak" /> </p>
 
